@@ -20,7 +20,7 @@ hero:
       link: './docs/qa'
     - theme: alt
       text: وضعیت سرور‌ها
-      link: 'https://021912.xyz/status/nb'
+      link: 'https://drvpn.net/status/nb'
 
 features:
 
