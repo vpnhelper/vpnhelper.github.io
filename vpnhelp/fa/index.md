@@ -23,6 +23,6 @@ hero:
       link: 'https://drvpn.net/status/nb'
 
 features:
-
+<meta name="google-site-verification" content="zxz8fi9dghEjd5ZKygTaPH58ue1SUUWD24y1EI35DHo" />
 ---
 
