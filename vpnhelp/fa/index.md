@@ -20,18 +20,9 @@ hero:
       link: './docs/qa'
     - theme: alt
       text: وضعیت سرور‌ها
-      link: 'https://drvpn.net/status/nb'
+      link: 'https://021912.xyz/status/nb'
 
 features:
-// docs/.vitepress/config.ts
-import { defineConfig } from 'vitepress'
-
-export default defineConfig({
-  head: [
-    ['meta', { name: 'google-site-verification', content: 'zxz8fi9dghEjd5ZKygTaPH58ue1SUUWD24y1EI35DHo' }]
-  ],
-  // سایر تنظیمات VitePress
-})
 
 ---
 
