@@ -63,6 +63,6 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     i18nRouting: true,
     logo: '/images/logo-dark.png',
-    // socialLinks: [{ icon: 'telegram', link: 'https://t.me/guidevpn' }],
+    // socialLinks: [{ icon: 'telegram', link: 'https://t.me/drvpn.net' }],
   },
 })
