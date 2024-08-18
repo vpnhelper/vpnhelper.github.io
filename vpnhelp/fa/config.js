@@ -38,7 +38,6 @@ export const config = {
   nav: [
     { text: 'خانه', link: '/' },
   ],
-
   footer: {
     message: '© 2024',
     copyright: 'CC Lab',
@@ -46,6 +45,11 @@ export const config = {
   outlineTitle: 'محتوا صفحه',
   returnToTopLabel: 'برگشت به بالا',
   sidebarMenuLabel: 'منو',
+
+  // اضافه کردن بخش head برای تگ‌های متا
+  head: [
+    ['meta', { name: 'google-site-verification', content: 'zxz8fi9dghEjd5ZKygTaPH58ue1SUUWD24y1EI35DHo' }]
+  ]
 }
 
 export default config
