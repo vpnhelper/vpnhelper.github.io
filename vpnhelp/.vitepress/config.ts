@@ -65,4 +65,7 @@ export default defineConfig({
     logo: '/images/logo-dark.png',
     // socialLinks: [{ icon: 'telegram', link: 'https://t.me/drvpn.net' }],
   },
+  head: [
+    ['meta', { name: 'google-site-verification', content: 'zxz8fi9dghEjd5ZKygTaPH58ue1SUUWD24y1EI35DHo' }]
+  ]
 })
