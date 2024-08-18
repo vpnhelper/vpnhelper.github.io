@@ -21,7 +21,7 @@ const englishThemeConfig = {
 
   footer: {
     message: 'Released under AGPL-3.0 License.',
-    copyright: 'Copyright © 2024-present vpngelp.github.io',
+    copyright: 'Copyright © 2024-present vpnhelper.github.io',
   },
   /*editLink: {
     pattern: 'https://github.com/gozargah/gozargah.github.io/edit/master/marzban/:path',
